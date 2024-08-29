@@ -1,1 +1,1 @@
-db.nginx.find().limit(5)
+db.school.find()
